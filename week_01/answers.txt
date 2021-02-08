@@ -1,0 +1,50 @@
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021 (main)
+$ cd week_01
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01 (main)
+$ mkdir s1
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01 (main)
+$ cd s1
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1 (main)
+$ mkdir s3
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1 (main)
+$ mkdir s2
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1 (main)
+$ cd s2
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2 (main)
+$ mkdir Advanced
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1 (main)
+$ cd s3
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s3 (main)
+$ echo "I love bash scripting." >> conf.txt
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s3 (main)
+$ cd ..
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1 (main)
+$ cd s2
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2 (main)
+$ echo "A whole new world" >> text_chunk1.txt
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2 (main)
+$ echo "A new fantastic point of view" >> text_chunk1.txt
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2 (main)
+$ cp text_chunk1.txt advanced
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2 (main)
+$ cd advanced
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2/advanced (main)
+$ mv text_chunk1.txt text_chunk2.txt
+
+Libby@DESKTOP-T95OE5R MINGW64 ~/documents/python/assignment-upstream-2021/week_01/s1/s2/advanced (main)
+$ echo "Do you want to build a snowman?" >> text_chunk2.txt
